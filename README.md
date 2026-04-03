@@ -1,3 +1,6 @@
 Nombre: 
 ----------------------
-Israel Quispe Yanique
+ Israel Quispe Yanique
+ -
+ Curso de HTML Y CSS
+ -
